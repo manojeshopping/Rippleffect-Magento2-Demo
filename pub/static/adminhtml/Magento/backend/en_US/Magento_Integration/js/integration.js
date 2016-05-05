@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/magento2/vendor/magento/module-integration/view/adminhtml/web/js/integration.js
